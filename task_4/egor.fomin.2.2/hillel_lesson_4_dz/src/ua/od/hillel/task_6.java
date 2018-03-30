@@ -7,6 +7,5 @@ public class task_6 {
     /**This is main performing method*/
     public static void main(String[] args) {
 
-
     }
 }
